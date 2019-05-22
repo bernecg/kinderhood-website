@@ -1,1 +1,1 @@
-# kinderhood-website
+# Kinderhood website
